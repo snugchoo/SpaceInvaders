@@ -1,2 +1,2 @@
 # SpaceInvaders
-Personal Project
+Personal Project (COS126)
